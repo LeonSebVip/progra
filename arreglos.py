@@ -28,7 +28,7 @@ miLista.insert(1, 5)
 for ele in miLista:
     print(ele)
 miLista.sort()#ordena la lista
-
+print("Ordenar la lista al reves")
 miLista.reverse()#dar vuelta la lista
 for ele in miLista:
     print(ele)
